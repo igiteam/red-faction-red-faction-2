@@ -15,6 +15,8 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 
 [![Red Faction](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)
 
+[![Red Faction II](https://cdn.mobygames.com/covers/173423-red-faction-ii-windows-front-cover.jpg)](https://cdn.mobygames.com/covers/173423-red-faction-ii-windows-front-cover.jpg)
+
 [https://www.factionfiles.com/ff.php?action=files&file_category=7](https://www.factionfiles.com/ff.php?action=files&file_category=7)
 
 [https://www.nexusmods.com/games/redfaction](https://www.nexusmods.com/games/redfaction)
