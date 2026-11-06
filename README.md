@@ -11,6 +11,10 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 ](https://api.github.com/repos/igiteam/red-faction-red-faction-2/git/trees/main?recursive=1)
 
 ## Reference Links
+[https://archive.org/download/rf-col](https://archive.org/download/rf-col)
+
+[![Red Faction](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)
+
 [https://www.factionfiles.com/ff.php?action=files&file_category=7](https://www.factionfiles.com/ff.php?action=files&file_category=7)
 
 [https://www.nexusmods.com/games/redfaction](https://www.nexusmods.com/games/redfaction)
