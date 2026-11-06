@@ -1,3 +1,23 @@
+# red-faction-red-faction-2
+## Red Faction - Red Faction 2
+A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/red-faction-red-faction-2
+](https://treegit.macosxjs.com/?url=igiteam/red-faction-red-faction-2)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/red-faction-red-faction-2/git/trees/main?recursive=1
+](https://api.github.com/repos/igiteam/red-faction-red-faction-2/git/trees/main?recursive=1)
+
+## Reference Links
+[https://www.factionfiles.com/ff.php?action=files&file_category=7](https://www.factionfiles.com/ff.php?action=files&file_category=7)
+
+[https://www.nexusmods.com/games/redfaction](https://www.nexusmods.com/games/redfaction)
+
+[https://www.moddb.com/games/red-faction/mods](https://www.moddb.com/games/red-faction/mods)
+
+
 # Red Faction reconstruction for Original Xbox and PC
 
 ## Current first-playable work (October 15, 2026)
@@ -56,7 +76,7 @@ gameplay remain unfinished. This is emulator footage, not a real-hardware captur
 
 ![PC reconstruction: miner beside the partly open Live Mines guard-station door](docs/images/pc-live-mines-door.png)
 
-**PC capture, rendered at 1920 � 1440 using the shared reconstruction code.**
+**PC capture, rendered at 1920 × 1440 using the shared reconstruction code.**
 A staged Live Mines scene with the original miner model, textures and lightmaps,
 and door panels placed halfway along their authored travel. This is a diagnostic
 scene, not playable campaign footage. The Xbox target remains stock 64 MiB;
@@ -222,3 +242,40 @@ it automatically. Run the PC diagnostic from the repository directory.
 The runtime uses the prepared asset without loading the original executable.
 Destruction remains in development; the original shape is live, while
 hardness, UV policy, debris and visual fidelity remain unfinished.
+
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
