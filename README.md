@@ -23,6 +23,13 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 
 [https://www.moddb.com/games/red-faction/mods](https://www.moddb.com/games/red-faction/mods)
 
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
 
 # Red Faction reconstruction for Original Xbox and PC
 
