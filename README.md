@@ -13,6 +13,8 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 ## Reference Links
 [https://archive.org/download/rf-col](https://archive.org/download/rf-col)
 
+[https://github.com/SuiMachine/Red-Faction-2---Widescreen-fixer](https://github.com/SuiMachine/Red-Faction-2---Widescreen-fixer)
+
 [![Red Faction](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)](https://archive.org/download/rf-col/Red-Faction1-Cover.jpg)
 
 [![Red Faction II](https://cdn.mobygames.com/covers/173423-red-faction-ii-windows-front-cover.jpg)](https://cdn.mobygames.com/covers/173423-red-faction-ii-windows-front-cover.jpg)
