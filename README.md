@@ -25,6 +25,10 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 
 [https://www.moddb.com/games/red-faction/mods](https://www.moddb.com/games/red-faction/mods)
 
+[![PC Longplay [282] Red Faction](https://img.youtube.com/vi/MyPkRDeVLVg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TXlQa1JEZVZMVmc)
+
+[![PC Longplay [300] Red Faction 2](https://img.youtube.com/vi/dJFuNcJ0lD4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZEpGdU5jSjBsRDQ)
+
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
