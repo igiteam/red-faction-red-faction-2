@@ -27,7 +27,7 @@ A remake of *Red Faction II* rebuilt in the **Red Faction** engine/project.
 
 [![PC Longplay [282] Red Faction](https://img.youtube.com/vi/MyPkRDeVLVg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TXlQa1JEZVZMVmc)
 
-[![PC Longplay [300] Red Faction 2](https://img.youtube.com/vi/dJFuNcJ0lD4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZEpGdU5jSjBsRDQ)
+[![Red Faction II (2002) - Complete Campaign Playthrough (No Commentary)](https://img.youtube.com/vi/JSEcEUabQQw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SlNFY0VVYWJRUXc)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
